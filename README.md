@@ -1,2 +1,1 @@
-<h1>this is Git version control system</h1>
-<p>this is our first class</p>
+<h1>HELLO WORLD</h1>
